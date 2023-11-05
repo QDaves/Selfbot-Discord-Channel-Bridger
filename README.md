@@ -1,6 +1,7 @@
 # Discord Channel Message Bridger
 
-This project contains a script for a selfbot that beams messages from specified channels in source Discord servers to a target channel in a target Discord server. It is designed for personal use and educational purposes. Users must comply with Discord's Terms of Service when using this bot.
+This script contains parts for a selfbot that beams messages from specified Servers to your own Server.
+It is designed for personal use and educational purposes. Users must comply with Discord's Terms of Service when using this bot.
 
 ## Disclaimer
 
