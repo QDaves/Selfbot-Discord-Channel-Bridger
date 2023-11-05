@@ -36,9 +36,9 @@ This script uses `discord.js-selfbot-v13`, which is not officially supported by 
 1. Insert your Discord selfbot token and bot token at the bottom of the script.
 2. Run the script using Node.js:
    ```sh
-   node index.js
+   node discordchannelbridge.js
    ```
-   Replace `index.js` with the path to your script file if necessary.
+   Replace `discordchannelbridge.js` with the path to your script file if necessary.
 
 ## Contribution
 
