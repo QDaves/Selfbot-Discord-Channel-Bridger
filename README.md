@@ -23,7 +23,7 @@ This script uses `discord.js-selfbot-v13`, which is not officially supported by 
 
 1. Clone the repository:
    ```sh
-   git clone <[repository-url](https://github.com/QDaves/Selfbot-Discord-Channel-Bridger)>
+   git clone https://github.com/QDaves/Selfbot-Discord-Channel-Bridger
    ```
 2. Install the required packages:
    ```sh
